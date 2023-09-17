@@ -11,3 +11,4 @@ A continuación se encuentran disponibles las **sesiones de ayudantía** del sem
 - Ayudantía 3: Introducción a la librería Pandas [[notebook]](https://github.com/AlejandroVillazonG/ayudantias_MAT281/blob/main/ayudantias_2023/Ayud3_MAT281_pandas_1.ipynb)
 - Ayudantía 4: Combinando datos, librería Pandas [[notebook]](https://github.com/AlejandroVillazonG/ayudantias_MAT281/blob/main/ayudantias_2023/Ayud4_MAT281_pandas_2.ipynb)
 - Ayudantía 5: Agrupando datos, librería Pandas [[notebook]](https://github.com/AlejandroVillazonG/ayudantias_MAT281/blob/main/ayudantias_2023/Ayud5_MAT281_pandas_3.ipynb)
+- Ayudantía 6: Visualizando datos, librerías Matplotlib y Seaborn [[notebook]](https://github.com/AlejandroVillazonG/ayudantias_MAT281/blob/main/ayudantias_2023/Ayud6_MAT281_matplotlib_seaborn.ipynb)
